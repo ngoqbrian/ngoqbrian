@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Brian</h1>
 
-Welcome to my GitHub! 
-I'm a data enthusiast exploring data science through hands-on projects. 
+Welcome to my GitHub!
 
-Here, you'll find my work on data analysis, machine learning, and visualization as I continue to build my skills and grow in the field.
+Here, you'll find my projects on data analysis, machine learning, and visualization.
 
 I’m always looking to collaborate on innovative projects. Let's work together!
 
